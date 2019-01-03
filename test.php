@@ -7,4 +7,39 @@ class test
 	echo "test";
 	// changeline
 	// cover
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	echo "aiueo";
+	
 }
