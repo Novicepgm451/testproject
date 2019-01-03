@@ -9,37 +9,5 @@ class test
 	// cover
 	echo "aiueo";
 	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
-	echo "aiueo";
 	
 }
